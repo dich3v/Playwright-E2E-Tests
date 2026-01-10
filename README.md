@@ -7,7 +7,6 @@ The applications under test are not included in this repository and were availab
 
 This code is intended to demonstrate my skills in UI and E2E test automation - not to serve as a fully runnable test suite out of the box.
 
----
 
 ## What’s Included
 
@@ -26,20 +25,6 @@ Each folder represents a separate Playwright project and includes:
 ✅ Project dependencies (`package.json`)  
 ✅ Structured test suites using Playwright Test Runner  
 
----
-
-## Project Structure
-
-Playwright-E2E-Tests/
-DroneDealsTests/
-(additional projects added over time)
-
-yaml
-Copy code
-
-Each project is self-contained and follows standard Playwright project conventions.
-
----
 
 ## Technologies Used
 
